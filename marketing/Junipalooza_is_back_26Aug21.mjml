@@ -1,0 +1,70 @@
+<mjml>
+  <mj-head>
+    <mj-title>Junipalooza is back!</mj-title>
+    <mj-include path="./head.mjml" />
+    <mj-preview>After a long hiatus, the gin fuelled Meet the Maker festival returns to London!</mj-preview>
+  </mj-head>
+  <mj-body>
+
+    <mj-include path="./header.mjml" />
+
+    <mj-section background-color="#FFF">
+      <mj-column>
+        <mj-text align="justify">
+          <p>It’s strange to think it’s been a whole two years since the last Junipalooza. Corona hasn’t been kind to our festival plans but thankfully, the makers are back in town and laden with more gin than ever. Here’s what to expect on the 18th & 19th September…</p>
+        </mj-text>
+        <mj-image src="https://bucket.mlcdn.com/a/2998/2998738/images/ad8f700d15f7b7bb91fc4b71737a1f0d90ead610.jpeg" alt="Junipalooza" href="https://www.spiritssociety.com/junipalooza-london" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FFF">
+      <mj-column>
+        <mj-image src="https://bucket.mlcdn.com/a/2998/2998738/images/c083cb834ac62af91e62a65a1bf2701955493c4b.jpeg" alt="Junipalooza" href="https://www.spiritssociety.com/junipalooza-london" />
+      </mj-column>
+      <mj-column>
+        <mj-text align="justify">
+          <p>There will be lots of new expressions all around!</p>
+          <p>Almost every exhibitor has a new gin in their range, meaning that both old favourites and recent start-ups will be full of exciting flavours to discover.</p>
+          <p>If you’ve had FOMO seeing them all appear online but haven’t had the opportunity to taste them, now is your chance to try dozens!</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FFF" direction="rtl">
+      <mj-column>
+        <mj-image src="https://bucket.mlcdn.com/a/2998/2998738/images/795fb0ce56baf37530c92a7f2e57d3b349f06c3a.jpeg" alt="Junipalooza" href="https://www.spiritssociety.com/junipalooza-london" />
+      </mj-column>
+      <mj-column>
+        <mj-text align="justify">
+          <p>The Newcomers is one of the festival’s hottest zones. It’s packed with fresh faced producers making their debuts and fans eager to see their potential. </p>
+          <p>This year, there’s a complete U.K. focus, supporting newly launched distilleries over the past 18 months. With Greenwich Gin, Shivering Mountain and more set to shine – it’s another scintillating line up.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FFF">
+      <mj-column>
+        <mj-image src="https://d3k81ch9hvuctc.cloudfront.net/company/StR5Hn/images/9603e41b-7645-49f1-a25c-cb1950848f55.jpeg" alt="Junipalooza" href="https://www.spiritssociety.com/junipalooza-london" />
+      </mj-column>
+      <mj-column>
+        <mj-text align="justify">
+          <p>This year, instead of coinciding with World Gin Day in June, our postponed event means we overlap with Negroni Week. </p>
+          <p>When life gives you lemons, make a lemonade but when it gives you a cocktail… Well, who are we to say otherwise? </p>
+          <p>What better to celebration than with a room filled with vermouths which you can taste neat or in a mini-groni?! Not only a great way to explore the drink, for those who want to know more and want more advice on how to match gin, vermouth and bitters - the experiential room will be hosted by none other than The Negroni Club themselves!</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FFF">
+      <mj-column>
+        <mj-text align="justify">
+          <p>60 stands, over 200 gins and a weekend of fun. <strong>JUNIPALOOZA. IS. BACK.</strong> Join us and <a href="https://www.eventbrite.co.uk/e/junipalooza-london-2021-tickets-111597264422"><strong>book your tickets</strong></a> now!</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-include path="./footer.mjml" />
+
+  </mj-body>
+</mjml>

@@ -1,0 +1,61 @@
+<mjml>
+  <mj-head>
+    <mj-title>The perfect Daiquiri, discovering Cachaça and a British Classic…</mj-title>
+    <mj-include path="./head.mjml" />
+    <mj-preview>We deliver top tips for recipes, head to Brazil and share some thoughts on Pimm’s.</mj-preview>
+  </mj-head>
+  <mj-body>
+
+    <mj-include path="./header.mjml" />
+
+    <mj-section background-color="#FFF">
+      <mj-column>
+        <mj-image src="https://bucket.mlcdn.com/a/2998/2998738/images/9762c77d01c4d4bec8e59fddaa50973fe972804f.jpeg" alt="Daiquiri" href="https://spiritsbeacon.com/cocktails/recipes/daiquiri" />
+        <mj-text align="justify">
+          <p>The Daiquiri is a deceptively simple drink and yet, just like other classic cocktails it can take a lifetime to perfect. With insight on how to balance booze, dilution, sweet sugar and caustic citrus and matching zingy lime against the ability to coax out the subtleties of the great rums – here’s how to make the ultimate <a href="https://spiritsbeacon.com/cocktails/recipes/daiquiri"><strong>Daiquiri</a></strong>.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FFF">
+      <mj-column>
+        <mj-image src="https://bucket.mlcdn.com/a/2998/2998738/images/df70349b7637a29d0c298ca187e0c2da0b6e2e36.jpeg" alt="Cachaca Daiquiri" href="https://spiritsbeacon.com/cocktails/recipes/daiquiri" />
+      </mj-column>
+      <mj-column>
+        <mj-text align="justify">
+          <p>Cachaça may be lesser known here in the UK, but it’s one of the largest selling spirits in the world. Recent figures suggest there are now more than 1000 distilleries producing over 4700 brands!</p>
+          <p>To some, Cachaça is little more than the base of the Caipirinha, a drink that’s transcended into Brazil’s national cocktail and a must have over the summer months.</p>
+          <p>However, as Bernadette Pamplin finds out, there is so much more to this fascinating spirit than that: <a href="https://spiritsbeacon.com/cocktails/recipes/daiquiri"><strong>spotlight on Cachaça</strong></a></p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FFF" direction="rtl">
+      <mj-column>
+        <mj-image src="https://bucket.mlcdn.com/a/2998/2998738/images/2c5f03adc7838aece5998c9ae023c90b24971206.jpeg" alt="Pims Daiquiri" href="https://spiritsbeacon.com/cocktails/recipes/daiquiri" />
+      </mj-column>
+      <mj-column>
+        <mj-text align="justify">
+          <p>Who doesn’t like a bit of Pimm’s?</p>
+          <p>Maybe that’s the problem though… With the cocktail and craft distilling renaissance that’s happened over the past decade – is it now a cult classic that’s entirely lovely, but just a little bit naff? </p>
+          <p>With Wimbledon now behind us, Leah Gasson asks if Pimm’s is <a href="https://spiritsbeacon.com/cocktails/recipes/daiquiri"><strong>“Too big to fail but too boring to sail”</strong></a>.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+    <!--Bottom Text-->
+    <mj-section padding-bottom="20px">
+      <mj-column>
+        <!--Button-->
+        <mj-button background-color="#003c55;" href="https://spiritsbeacon.com/">READ MORE</mj-button>
+        <!--End Button-->
+      </mj-column>
+    </mj-section>
+    <!--End Bottom Text-->
+
+
+    <mj-include path="./footer.mjml" />
+
+  </mj-body>
+</mjml>

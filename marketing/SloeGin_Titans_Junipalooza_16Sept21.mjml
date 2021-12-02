@@ -1,0 +1,78 @@
+<mjml>
+  <mj-head>
+    <mj-title>Cocktails, guides and this week’s big gin event! </mj-title>
+    <mj-include path="./head.mjml" />
+    <mj-preview>How to make Sloe Gin, a look at the next Titans of industry and a Junipalooza preview</mj-preview>
+  </mj-head>
+  <mj-body>
+
+    <mj-include path="./header.mjml" />
+
+    <mj-section background-color="#FFF">
+      <mj-column>
+        <mj-image src="https://bucket.mlcdn.com/a/2998/2998738/images/5ac8995e5e3c7563f5fc398ccb32ce518912a57f.jpeg" alt="Dark and Stormy Drink" href="https://spiritsbeacon.com/cocktails/recipes/dark-and-stormy" />
+        <mj-text align="justify">
+          <p>The Dark N’ Stormy hails from the Caribbean and has since become a stable for rum drinkers around the world. The drink is nothing like the ominous name it’s been given though - it’s simple to make at home, fresh and with enough of nip to keep you interested… Here’s our recipe for how to make a <a href="https://spiritsbeacon.com/cocktails/recipes/dark-and-stormy"><strong>Dark & Stormy</strong></a>.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FFF">
+      <mj-column>
+        <mj-image src="https://bucket.mlcdn.com/a/2998/2998738/images/c9f81d06c7f09e2e5f525374d9cc0f1e224f51bc.jpeg" alt="Titans of Industry" href="https://spiritsbeacon.com/features/insight/titans-of-industry" />
+      </mj-column>
+      <mj-column>
+        <mj-text align="justify">
+          <p>There are some names that are just synonymous with certain spirits categories. </p>
+          <p>There are pioneers who have trail-blazed new paths, mavericks who rejuvenated the perception around spirits, and industry icons who have decades of history with their respective brands.</p>
+          <p>In her latest article, Millie Milliken looks at some of the longstanding titans of industry and asks the new wave who and what inspired them.</p>
+          <p><a href="https://spiritsbeacon.com/features/insight/titans-of-industry"><strong>Titans of Industry</strong></a></p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FFF" direction="rtl">
+      <mj-column>
+        <mj-image src="https://bucket.mlcdn.com/a/2998/2998738/images/87a621f567bf31fb14f596aec30e650b0e3853aa.png" alt="Sloe Gin" href="https://spiritsbeacon.com/guides/how-tos/how-to-make-sloe-gin" />
+      </mj-column>
+      <mj-column>
+        <mj-text align="justify">
+          <p>It's the beginning of Sloe Gin Season!</p>
+          <p>If you were keen to make your own this year, but just don't know where to start - we've published a step-by-step guide from foraging berries to infusing them to make the perfect Sloe Gin.</p>
+          <p>And for those who want to skip straight to the drinking part, we've also rounded up some of the best on the shelves already...</p>
+          <p><a href="https://spiritsbeacon.com/guides/how-tos/how-to-make-sloe-gin"><strong>How to make Sloe Gin</strong></a></p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FFF">
+        <mj-column>
+          <mj-image src="https://bucket.mlcdn.com/a/2998/2998738/images/ea52a9c90e53c81d9a6622cc804120c4239fc653.png" alt="Junipalooza Preview" href="https://spiritsbeacon.com/news/latest/junipalooza-preview" />
+        </mj-column>
+        <mj-column>
+          <mj-text align="justify">
+            <p>It's been two years since the last London show and as Junipalooza returns to Tobacco Dock, there's a lot more than just gin to get excited about!</p>
+            <p>In this long-postponed edition, 50 producers will gather over the 18th and 19th of September and serve their ranges, with thousands of gin fans set to join the fun...</p>
+            <p></p>
+            <p>Here’s our <a href="https://spiritsbeacon.com/news/latest/junipalooza-preview"><strong>Junipalooza Preview</strong></a></p>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+
+
+    <!--Bottom Text-->
+    <mj-section padding-bottom="20px">
+      <mj-column>
+        <!--Button-->
+        <mj-button background-color="#003c55;" href="https://spiritsbeacon.com/">DISCOVER SPIRITS BEACON</mj-button>
+        <!--End Button-->
+      </mj-column>
+    </mj-section>
+    <!--End Bottom Text-->
+
+
+    <mj-include path="./footer.mjml" />
+
+  </mj-body>
+</mjml>

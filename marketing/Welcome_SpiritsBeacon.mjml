@@ -1,0 +1,34 @@
+<mjml>
+  <mj-head>
+    <mj-title>Gin Foundry has changed. Here’s what we’ve been up to...</mj-title>
+    <mj-include path="./head.mjml" />
+    <mj-preview>Spirits Beacon is live and we’ve been busy publishing each week.</mj-preview>
+  </mj-head>
+  <mj-body>
+
+    <mj-include path="./header.mjml" />
+
+    <mj-section background-color="#FFF">
+      <mj-column>
+        <mj-text align="justify">
+          <p>Thank you for signing up to the <a href="https://spiritsbeacon.com/"><strong>Spirits Beacon</strong></a> newsletter.</p>
+          <p>We look forward to sending you news and updates and we’ll make sure you are the first to know about the insight, recipes and feature articles we publish.</p>
+          <p>If you ever have questions or feedback, don’t hesitate to get in touch - just drop us mail at this address! </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--Bottom Text-->
+    <mj-section padding-bottom="20px">
+      <mj-column>
+        <!--Button-->
+        <mj-button background-color="#003c55;" href="https://spiritsbeacon.com/">DISCOVER SPIRITS BEACON</mj-button>
+        <!--End Button-->
+      </mj-column>
+    </mj-section>
+    <!--End Bottom Text-->
+
+
+    <mj-include path="./footer.mjml" />
+
+  </mj-body>
+</mjml>

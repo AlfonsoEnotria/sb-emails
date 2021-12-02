@@ -1,0 +1,75 @@
+<mjml>
+  <mj-head>
+    <mj-title>Mai Tai’s, Jamaican Rum and how to predict the next big Gin</mj-title>
+    <mj-include path="./head.mjml" />
+    <mj-preview></mj-preview>
+  </mj-head>
+  <mj-body>
+
+    <mj-include path="./header.mjml" />
+
+    <mj-section background-color="#FFF">
+      <mj-column>
+        <mj-image src="https://bucket.mlcdn.com/a/2998/2998738/images/cf79e9c39c0590935d9217580cef749b44a7ca6c.jpeg" alt="Mai Tai" href="https://spiritsbeacon.com/cocktails/recipes/mai-tai" />
+        <mj-text align="justify">
+          <p>Few recipes embody a sense of summer as evocatively as the Mai Tai. Don’t be put off by the pre-mixed and garish looking versions from the late 80’s - that's not what the cocktail is about. The original Mai Tai one of the great Tiki recipes and delivers a fresh, rum-forward cocktail with a fantastic array of depth and flavour. Here’s <a href="https://spiritsbeacon.com/cocktails/recipes/mai-tai"><strong>how to make it</strong></a> at home.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FFF">
+      <mj-column>
+        <mj-image src="https://bucket.mlcdn.com/a/2998/2998738/images/b735e290c657041060dbf7a3c26fdc03b08a21f0.png" alt="Jamaica Rum" href="https://spiritsbeacon.com/features/insight/jamaican-rum" />
+      </mj-column>
+      <mj-column>
+        <mj-text align="justify">
+          <p>For her latest article, Bernadette Pamplin casts a spotlight on the history, high ester profiles and process behind Jamaican Rum.</p>
+          <p>Once it was incognito, mingling amongst others in a blend. Now, it has been exposed and we love it!</p>
+          <p>Packed with brilliant insight, it's a great article for those looking to understand what <a href="https://spiritsbeacon.com/features/insight/jamaican-rum"><strong>Jamaican Rum</strong></a> is all about.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FFF" direction="rtl">
+      <mj-column>
+        <mj-image src="https://bucket.mlcdn.com/a/2998/2998738/images/b7cebd522e197681f87873caf1462721e0a8c59f.png" alt="The Next Contender" href="https://spiritsbeacon.com/features/insight/the-next-contender" />
+      </mj-column>
+      <mj-column>
+        <mj-text align="justify">
+          <p>Ever wondered what it takes to make it into today’s global gin scene? </p>
+          <p>We're frequently asked to gaze into the crystal ball and hand in a hot tips like pundits trading insider knowledge to investors ready to mark-up their betting slips. </p>
+          <p>In our article <a href="https://spiritsbeacon.com/features/insight/the-next-contender"><strong>The Next Contender</strong></a>, we decided to go through the challenges that a gin distillery faces when going from niche to becoming the hottest brand on the block...</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FFF">
+      <mj-column>
+        <mj-image src="https://bucket.mlcdn.com/a/2998/2998738/images/59e5486210dd448a591324621e6bfda0ed95c118.png" alt="French Drinking" href="https://spiritsbeacon.com/features/insight/do-we-need-to-re-imagine-french-drinking" />
+      </mj-column>
+      <mj-column>
+        <mj-text align="justify">
+          <p>There is an undeniable charm to French Aperitifs, part of which is their unchanging nature and sense of nostalgia. </p>
+          <p>But is there a revolution needed for many of these once globally recognised brands to remain relevant today?</p>
+          <p>Sara Jane Eichler explores what's happened to the French powerhouses and makes the case for why the situation needs to change. </p>
+          <p><a href="https://spiritsbeacon.com/features/insight/do-we-need-to-re-imagine-french-drinking"><strong>Do we need to re-imagine French drinking?</strong></a></p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+    <!--Bottom Text-->
+    <mj-section padding-bottom="20px">
+      <mj-column>
+        <!--Button-->
+        <mj-button background-color="#003c55;" href="https://spiritsbeacon.com/">DISCOVER SPIRITS BEACON</mj-button>
+        <!--End Button-->
+      </mj-column>
+    </mj-section>
+    <!--End Bottom Text-->
+
+
+    <mj-include path="./footer.mjml" />
+
+  </mj-body>
+</mjml>

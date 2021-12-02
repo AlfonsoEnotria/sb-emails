@@ -1,0 +1,74 @@
+<mjml>
+  <mj-head>
+    <mj-title>The Americano, British Vermouth and a deep dive into Australian Gin</mj-title>
+    <mj-include path="./head.mjml" />
+    <mj-preview>A perfect Aperitivo recipe, a flourishing category and insight into Gin down under.</mj-preview>
+  </mj-head>
+  <mj-body>
+
+    <mj-include path="./header.mjml" />
+
+    <mj-section background-color="#FFF">
+      <mj-column>
+        <mj-image src="https://d3k81ch9hvuctc.cloudfront.net/company/StR5Hn/images/600db2dc-4ca7-421f-89f1-e32141c576e6.jpeg" alt="The Americano" href="https://spiritsbeacon.com/cocktails/recipes/americano" />
+        <mj-text align="justify">
+          <p>If you've ever wanted a light afternoon or evening drink, or ever dreamed of the perfect Aperitif, <a href="https://spiritsbeacon.com/cocktails/recipes/americano"><strong>The Americano</a></strong> is the answer. Incredibly simple to make and even easier to slip down; here’s how to make one and why they are so brilliant.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FFF">
+      <mj-column>
+        <mj-image src="https://bucket.mlcdn.com/a/2998/2998738/images/0f898f7be641fe59a470d39aab0d6c057d6658c0.jpeg" alt="New Releases July" href="https://spiritsbeacon.com/news/latest/new-releases-july" />
+      </mj-column>
+      <mj-column>
+        <mj-text align="justify">
+          <p>Each month we round up the best new releases to hit the shelves in a curated highlight reel. </p>
+          <p>From exclusive whisky to celebrity gins, July saw more than a sprinkle of star dust in the spirits world with many famous faces getting involved and making their own.</p>
+          <p>Here’s what happened: <a href="https://spiritsbeacon.com/news/latest/new-releases-july"><strong>New Releases July</a></strong></p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FFF" direction="rtl">
+      <mj-column>
+        <mj-image src="https://bucket.mlcdn.com/a/2998/2998738/images/c0256e1f1a966dac23a4aa71ed24d163dcbaa17d.jpeg" alt="Americano British Vermouth" href="https://spiritsbeacon.com/guides/spirits/the-rise-of-british-vermouth" />
+      </mj-column>
+      <mj-column>
+        <mj-text align="justify">
+          <p>Each year, British Vermouth continues to grow and evolve. To really understand what has prompted its rise, you have to look back at where it started and chart the key moments in its timeline.</p>
+          <p>Handy then, that Sara Jane Eichler was on hand to unpick the most significant streams that have led to where it is today.</p>
+          <p>You’ll find insight, opinion, an infographic and more here: <a href="https://spiritsbeacon.com/guides/spirits/the-rise-of-british-vermouth"><strong>The rise of British Vermouth</a></strong></p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FFF">
+      <mj-column>
+        <mj-image src="https://bucket.mlcdn.com/a/2998/2998738/images/35b5c9ca148c1963ed70490614b0b3bdafb55e49.jpeg" alt="Australian Americano Vermouth" href="https://spiritsbeacon.com/features/insight/australia-s-flourishing-craft-industry" />
+      </mj-column>
+      <mj-column>
+        <mj-text align="justify">
+          <p>In our latest deep dive - we explore the economic context that underpins the growth around Australian gin, where it’s heading and why it’s galvanised such a passionate following. </p>
+          <p>Packed with data and perspective, this article navigates the state of Australian Craft scene today and the realities of what producers are facing.</p>
+          <p><a href="https://spiritsbeacon.com/features/insight/australia-s-flourishing-craft-industry"><strong>Australia's Flourishing Craft Industry</a></strong></p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+    <!--Bottom Text-->
+    <mj-section padding-bottom="20px">
+      <mj-column>
+        <!--Button-->
+        <mj-button background-color="#003c55;" href="https://spiritsbeacon.com/">DISCOVER SPIRITS BEACON</mj-button>
+        <!--End Button-->
+      </mj-column>
+    </mj-section>
+    <!--End Bottom Text-->
+
+
+    <mj-include path="./footer.mjml" />
+
+  </mj-body>
+</mjml>

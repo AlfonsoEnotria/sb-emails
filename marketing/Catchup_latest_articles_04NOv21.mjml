@@ -1,0 +1,93 @@
+<mjml>
+  <mj-head>
+    <mj-title>Catch up on the latest articles!</mj-title>
+    <mj-include path="./head.mjml" />
+    <mj-preview>Product reviews, insight into the drinks industry and a guide into Vermouth</mj-preview>
+  </mj-head>
+  <mj-body>
+
+    <mj-include path="./header.mjml" />
+
+    <mj-section background-color="#FFF">
+      <mj-column>
+        <mj-image src="https://bucket.mlcdn.com/a/2998/2998738/images/d70c6ec83d5e4f84d5f9bfbc9ebe2219eef644fa.png" alt="The Great Ready to Drink Review" href="https://spiritsbeacon.com/features/reviews/the-great-ready-to-drink-review" />
+      </mj-column>
+      <mj-column>
+        <mj-text align="justify" color="#000">
+          <p><a href="https://spiritsbeacon.com/features/reviews/the-great-ready-to-drink-review"><strong>The Great Ready to Drink Review</strong></a></p>
+          <p>‘Ready to Drink’ cocktails have been a ubiquitous staple for festival goers, commuters and picnickers for the best part of a decade.</p>
+          <p>Products of convenience rather than craft, they were more often than not as equivalent to their namesake cocktails as a gun-shot soundtracked back alley motel was to The Savoy. Still, they did the job (or a job, anyway).⠀⠀⠀⠀⠀⠀⠀⠀</p>
+          <p>Ready To Drink’s have grown, but have they evolved? Leah Gasson tastes away to find out.</p>
+        </mj-text>
+        <!--Button-->
+        <mj-button background-color="#003c55;" href="https://spiritsbeacon.com/features/reviews/the-great-ready-to-drink-review">READ MORE</mj-button>
+        <!--End Button-->
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FFF" direction="rtl">
+        <mj-column>
+          <mj-image src="https://bucket.mlcdn.com/a/2998/2998738/images/9aaff57c56cabe0f75e940651ea469689106dd18.png" alt="The World of Brand Ambassadors" href="https://spiritsbeacon.com/features/insight/what-ise-brand-ambassador" />
+        </mj-column>
+        <mj-column>
+          <mj-text align="justify" color="#000">
+            <p><a href="https://spiritsbeacon.com/features/insight/what-ise-brand-ambassador"><strong>The World of Brand Ambassadors</strong></a></p>
+            <p>Bar-hopping in exotic destinations, promoting your favourite spirit from dawn to ….er, well beyond dusk. Is the role of a drinks brand ambassador really a dream job?</p>
+            <p>In her honest and insightful article, Karyn Noble digs a little deeper and uncovers what the role really entails...</p>
+          </mj-text>
+          <!--Button-->
+        <mj-button background-color="#003c55;" href="https://spiritsbeacon.com/features/insight/what-ise-brand-ambassador">READ MORE</mj-button>
+        <!--End Button-->
+        </mj-column>
+      </mj-section>
+      
+
+      <mj-section background-color="#FFF">
+        <mj-column>
+          <mj-image src="https://bucket.mlcdn.com/a/2998/2998738/images/a4fa02c712a358ae53f1b1cb52816aeda0ce311d.jpeg" alt="The History of Sweet Vermouth" href="https://spiritsbeacon.com/guides/spirits/the-history-of-sweet-vermouth" />
+        </mj-column>
+        <mj-column>
+          <mj-text align="justify" color="#000">
+            <p><a href="https://spiritsbeacon.com/guides/spirits/the-history-of-sweet-vermouth"><strong>The History of Sweet Vermouth</strong></a></p>
+            <p>For our latest guide, Sara Jane Eichler takes on the century’s old history of Sweet Vermouth.  </p>
+            <p>From ancient China to the latest offerings rejuvenating Turin's continued legacy, she unfurls the category's ever-evolving story...</p>
+            <p>A great read for all those who want to learn a little more and understand why it tastes the way it does!</p>
+          </mj-text>
+           <!--Button-->
+        <mj-button background-color="#003c55;" href="https://spiritsbeacon.com/guides/spirits/the-history-of-sweet-vermouth">READ MORE</mj-button>
+        <!--End Button-->
+        </mj-column>
+      </mj-section>
+  
+      <mj-section background-color="#FFF" direction="rtl">
+          <mj-column>
+            <mj-image src="https://bucket.mlcdn.com/a/2998/2998738/images/824b36a501873b9d4f4322fbe55e2b2fe3ccc379.png" alt="Best Books About Booze" href="https://spiritsbeacon.com/features/insight/new-spirits-books-to-add-to-your-library" />
+          </mj-column>
+          <mj-column>
+            <mj-text align="justify" color="#000">
+              <p><a href="https://spiritsbeacon.com/features/insight/new-spirits-books-to-add-to-your-library"><strong>Best Books About Booze</strong></a></p>
+              <p>Looking to update your bookshelves and learn a thing or two about your favourite spirits?</p>
+              <p>Irrespective whether they were in this latest swathe of offerings to be added to Amazon (or bookshelves if they still exist) this Autumn or if they are from earlier in the year - here's our round up of best booze books of 2021.</p>
+            </mj-text>
+            <!--Button-->
+        <mj-button background-color="#003c55;" href="https://spiritsbeacon.com/features/insight/new-spirits-books-to-add-to-your-library">READ MORE</mj-button>
+        <!--End Button-->
+          </mj-column>
+        </mj-section>
+
+
+    <!--Bottom Text-->
+    <mj-section padding-bottom="20px">
+      <mj-column>
+        <!--Button-->
+        <mj-button background-color="#003c55;" href="https://spiritsbeacon.com/">DISCOVER SPIRITS BEACON</mj-button>
+        <!--End Button-->
+      </mj-column>
+    </mj-section>
+    <!--End Bottom Text-->
+
+
+    <mj-include path="./footer.mjml" />
+
+  </mj-body>
+</mjml>

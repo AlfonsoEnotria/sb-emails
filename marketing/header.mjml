@@ -1,0 +1,16 @@
+<mj-section background-color="#FFFFFF" mj-class="header" css-class="header" padding="0">
+  <mj-column background-color="#FFFFFF">
+    <mj-image width="100px" src="https://bucket.mlcdn.com/a/2998/2998738/images/a533658e4bcfc041895cd4cacb8433f282c19070.png" href="https://spiritsbeacon.com/" />
+  </mj-column>
+</mj-section>
+<mj-section background-color="#FFFFFF" padding="0">
+  <mj-column background-color="#FFFFFF">
+    <mj-navbar base-url="https://spiritsbeacon.com">
+      <mj-navbar-link href="/news/">News</mj-navbar-link>
+      <mj-navbar-link href="/features/">Features</mj-navbar-link>
+      <mj-navbar-link href="/guides/">Guides</mj-navbar-link>
+      <mj-navbar-link href="/cocktails/">Cocktails</mj-navbar-link>
+      <mj-navbar-link href="/producers/">Producers</mj-navbar-link>
+    </mj-navbar>
+  </mj-column>
+</mj-section>

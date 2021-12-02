@@ -1,0 +1,83 @@
+<mjml>
+  <mj-head>
+    <mj-title>Junipalooza and La Pinata 2022 have been unveiled. </mj-title>
+    <mj-include path="./head.mjml" />
+    <mj-preview>Junipalooza and La Pinata tickets are now live! </mj-preview>
+  </mj-head>
+  <mj-body>
+
+    <mj-include path="./header.mjml" />
+
+    <mj-section background-color="#FFF">
+        <mj-column>
+            <mj-image src="https://bucket.mlcdn.com/a/3396/3396064/images/772f8d748d127c7159de8cc5e711e08b745b5df5.jpeg" alt="Junipalooza and La Pinata 2022" href="https://junipalooza-london-2022.eventbrite.co.uk" />
+        </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FFF" >
+        <mj-column>
+            <mj-image src="https://bucket.mlcdn.com/a/2998/2998738/images/69e53e4013c438392f0538d836957c49adcf565e.png" alt="" href="https://junipalooza-london-2022.eventbrite.co.uk" />
+          </mj-column>
+          <mj-column>
+            <mj-text align="justify" color="#000">
+              <p>Junipalooza will be back at Tobacco Dock over World Gin Day weekend, the 11th and 12th of June.</p>
+              <p>Why book now? It’s simple, there’ll be lots of incredible gin. Over 300 expressions kind of lots, from 60+ distilleries! </p>
+              <p>As a meet the maker event, you’ll get to meet some of the biggest names of the category - responsible for some of the most iconic gins in the world as well as tiny one-man-band operations just starting their journey. It’s a weekend of big dreams, big flavours and a lot of fun.</p>
+            </mj-text>
+          </mj-column>
+      </mj-section>
+      
+
+      <mj-section background-color="#FFF" direction="rtl">
+        <mj-column>
+          <mj-image src="https://bucket.mlcdn.com/a/2998/2998738/images/44d55b3883816af71c138d039dd6153a030d1c5a.png" alt="" href="https://junipalooza-london-2022.eventbrite.co.uk" />
+        </mj-column>
+        <mj-column>
+          <mj-text align="justify" color="#000">
+            <p>This year, expect to see a few big changes! Almost half of the exhibitors will be building their own spaces, bringing to life their brands in unique and immersive ways</p>
+            <p>Free to attend masterclasses will be back, there’s much bigger space for Newcomers and there’s a shift we’ve wanted to do for years… We’ve finally been allowed to bring in our own food operators so we will be hosting an independent food court and lounge with music and seating. </p>
+          </mj-text>
+           <!--Button-->
+        <mj-button background-color="#003c55;" href="https://junipalooza-london-2022.eventbrite.co.uk">GET YOUR TICKETS</mj-button>
+        <!--End Button-->
+        </mj-column>
+      </mj-section>
+      
+      <mj-section background-color="#FFF">
+        <mj-column>
+          <mj-image src="https://bucket.mlcdn.com/a/2998/2998738/images/c152b4c0cc89129a8696a6286de4d56a48addf59.png" alt="" href="https://la-pinata-2022.eventbrite.co.uk" />
+        </mj-column>
+        <mj-column>
+          <mj-text align="justify" color="#000">
+            <p>Following a stellar inaugural event, La Piñata will return on the Cinco De Mayo weekend. Once more, we’re set to host dozens of producers who will be equipped with over 50 Tequilas and Mezcals between them. </p>
+            <p>Each will host a stand dotted around Tobacco Dock for you to have a chance to really explore the category - no gimmicks, no spin, just great spirits served by passionate producers.</p>
+            <p>For 2022, we've decided to add even more ways to enjoy Tequila and Mezcal at the show too!</p>
+          </mj-text>
+
+        </mj-column>
+      </mj-section>
+      
+      <mj-section background-color="#FFF" direction="rtl" padding-bottom="15px">
+        <mj-column>
+          <mj-image src="https://bucket.mlcdn.com/a/2998/2998738/images/2d2f4d789f54f35b069f86199f1f87c1997cba55.png" alt="" href="https://la-pinata-2022.eventbrite.co.uk" />
+        </mj-column>
+        <mj-column>
+          <mj-text align="justify" color="#000">
+            <p>We’re planning to have a bigger bar serving up the very best Margarita's, Paloma's and Michelada's for when you fancy something longer. There’ll also be more options for street food this year and more mixers to explore and taste. </p>
+            <p>New for 2022 is our Masterclass room. There will be talks and tutored tastings hosted by experts, delving into the specifics of certain styles, as well as panel discussions covering the hot topics impacting the category right now. </p>
+          </mj-text>
+           <!--Button-->
+        <mj-button background-color="#003c55;" href="https://la-pinata-2022.eventbrite.co.uk">GET YOUR TICKETS</mj-button>
+        <!--End Button-->
+        </mj-column>
+      </mj-section>
+  
+
+
+
+
+
+    <mj-include path="./footer.mjml" />
+
+  </mj-body>
+</mjml>

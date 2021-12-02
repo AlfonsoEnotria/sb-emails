@@ -1,0 +1,84 @@
+<mjml>
+  <mj-head>
+    <mj-title>A new future for Vodka and the best bubbles to use in cocktails…</mj-title>
+    <mj-include path="./head.mjml" />
+    <mj-preview>Single Estate Vodka, a deep dive into Cream Liqueurs and which fizz to float in drinks</mj-preview>
+  </mj-head>
+  <mj-body>
+
+    <mj-include path="./header.mjml" />
+
+    
+    <mj-section background-color="#FFF">
+      <mj-column>
+        <mj-image src="https://bucket.mlcdn.com/a/2998/2998738/images/58679c67118a2176d322797688cfbeb4cb4aec65.jpeg" alt="The Turbo G&T" href="https://spiritsbeacon.com/cocktails/recipes/turbo-g-and-t" />
+      </mj-column>
+    </mj-section>
+
+     <mj-section background-color="#FFF">
+      <mj-column>
+        <mj-text align="justify" color="#000">
+          <p>With Gin, Cold Brew coffee and tonic, The Turbo G&T fuses three of our most loved liquids into an enticing, energising cocktail that promises to brighten up your eyes as it loosens up your limbs. Perfect for the winter months - here’s <a href="https://spiritsbeacon.com/cocktails/recipes/turbo-g-and-t"><strong>how to make one at home.</strong></a></p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FFF">
+      <mj-column>
+        <mj-image src="https://bucket.mlcdn.com/a/2998/2998738/images/67aa2f3b83853332f5ba0215aed7e93bf97f4c22.jpeg" alt="Single Estate Vodka" href="https://spiritsbeacon.com/features/insight/is-single-estate-the-future-of-vodka" />
+      </mj-column>
+      <mj-column>
+        <mj-text align="justify" color="#000">
+          <p>From climate concerns to the ever-changing demands of today’s drinkers, can a focus on terroir help Vodka evolve? </p>
+          <p>As environmental responsibility and transparency in spirits become increasingly important to consumers, Millie Milliken looks at the world of Single Estate vodka and what it can bring to the category.</p>
+          <p>Is it a case of the emperor’s new robes, or will it lead to a more sustainably minded future?</p>
+          <p>Find out more here: <a href="https://spiritsbeacon.com/features/insight/is-single-estate-the-future-of-vodka"><strong>Single Estate Vodka</strong></a></p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FFF" direction="rtl">
+      <mj-column>
+        <mj-image src="https://bucket.mlcdn.com/a/2998/2998738/images/54c809ba06c949f2624fc821046652d99d6d4a47.png" alt="The Future Of Cream Liqueurs" href="https://spiritsbeacon.com/guides/spirits/cream-liqueurs" />
+      </mj-column>
+      <mj-column>
+        <mj-text align="justify" color="#000">
+          <p>With Baileys season fast approaching, Bernadette Pamplin delves into the thick milky world of cream liqueurs for her latest article.</p>
+          <p>She asks if there is indeed a "season" and if Cream Liqueurs are only relevant over the festive period, or if they are becoming established year-round?</p>
+          <p>From the big names to the session'able Panther Milk - it's a read packed full of insight and intriguing predictions: </p>
+          <p><a href="https://spiritsbeacon.com/guides/spirits/cream-liqueurs"><strong>The Future Of Cream Liqueurs</strong></a></p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FFF">
+      <mj-column>
+        <mj-image src="https://bucket.mlcdn.com/a/2998/2998738/images/5086d27d18966b8c099cc8da9bfec92ed2d5fbe9.jpeg" alt="What’s The best Bubbles for Cocktails?" href="https://spiritsbeacon.com/features/insight/best-bubbles-for-cocktail-households" />
+      </mj-column>
+      <mj-column>
+        <mj-text align="justify" color="#000">
+          <p>What's your go to fizz when you have cocktails in mind?</p>
+          <p>So much commentary is dedicated to either spirits or wine as separate categories – yet, when it comes to combining the two in a cocktail there’s very little in the way of how one relates to the other.</p>
+          <p>For cocktail nerds, cocktails are always centred on the base spirit whilst wine writers fixate on the qualities of the drink on its own, seldom as part of a mix. We thought it was time to switch it up...</p>
+          <p><a href="https://spiritsbeacon.com/features/insight/best-bubbles-for-cocktail-households"><strong>What’s The best Bubbles for Cocktails?</strong></a></p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+
+    <!--Bottom Text-->
+    <mj-section padding-bottom="20px">
+      <mj-column>
+        <!--Button-->
+        <mj-button background-color="#003c55;" href="https://spiritsbeacon.com/">Read More Articles</mj-button>
+        <!--End Button-->
+      </mj-column>
+    </mj-section>
+    <!--End Bottom Text-->
+
+
+    <mj-include path="./footer.mjml" />
+
+  </mj-body>
+</mjml>

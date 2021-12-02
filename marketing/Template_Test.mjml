@@ -1,0 +1,35 @@
+<mjml>
+  <mj-head>
+    <mj-title>– Spirits Beacon</mj-title>
+    <mj-include path="./head.mjml" />
+    <mj-preview>Thank you for signing up to the Spirits Beacon newsletter.</mj-preview>
+  </mj-head>
+  <mj-body>
+
+    <mj-include path="./header.mjml" />
+
+    <mj-section background-color="#FFF">
+      <mj-column>
+        <mj-text align="justify">
+          <p>Thank you for signing up to the Spirits Kiosk newsletter. We look forward to informing you about curated selections suitable for the season or occasions that are approaching, the latest offers we have, or just some insight as to what cocktails you can make at home.</p>
+          <p>As a thank you here’s a 10% off code for you to use on your <a href=""><strong>next order:</strong></a></p>
+          <h3 style="padding-top:25px;" align="center">Your personal code:</h3>
+          <h1 style="line-height:1em; padding:5px 0px; border-top:1px solid #00504B; border-bottom:1px solid #00504B !important;"align="center">V572T2Y19FG4</h1>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--Bottom Text-->
+        <mj-section padding-bottom="20px">
+            <mj-column>
+                <!--Button-->
+                <mj-button background-color="#003c55;"  href="https://spiritskiosk.com/">GO TO SPIRITS KIOSK</mj-button>
+                <!--End Button-->
+            </mj-column>
+        </mj-section>
+        <!--End Bottom Text-->
+    
+
+    <mj-include path="./footer.mjml" />
+
+  </mj-body>
+</mjml>

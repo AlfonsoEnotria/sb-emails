@@ -1,0 +1,89 @@
+<mjml>
+  <mj-head>
+    <mj-title>The art of Blending, new interviews, insights and reviews</mj-title>
+    <mj-include path="./head.mjml" />
+    <mj-preview></mj-preview>
+  </mj-head>
+  <mj-body>
+
+    <mj-include path="./header.mjml" />
+
+    <mj-section background-color="#FFF">
+      <mj-column>
+        <mj-image src="https://bucket.mlcdn.com/a/2998/2998738/images/548d1283ef0e25b336103ef14caa1028e6b08caa.jpeg" alt="El Diablo Cocktail" href="https://spiritsbeacon.com/cocktails/recipes/el-diabolo" />
+        <mj-text align="justify">
+          <p>As a cocktail, El Diabolo is grossly overlooked by tequila drinkers who favour the Paloma or the Margarita. This enduring recipe is always a hit for those who like big bold flavours however. It's fresh, zesty, just fruity enough and has that perfect combo of earthy agave and warming ginger to hit maximum refreshment. Here’s <a href="https://spiritsbeacon.com/cocktails/recipes/el-diabolo"><strong>how to make it</strong></a> at home.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FFF">
+      <mj-column>
+        <mj-image src="https://bucket.mlcdn.com/a/2998/2998738/images/6e9343fe92a7ed378e404c9b2c4402f8d13b2d55.png" alt="Blender Legacy" href="https://spiritsbeacon.com/features/insight/the-legacy-of-spirits-blenders" />
+      </mj-column>
+      <mj-column>
+        <mj-text align="justify">
+          <p>Blending spirits is a precise and honed craft</p>
+          <p>How do those involved fine-tune their method and how do they pass on their lifetime’s work and future legacy to someone new? </p>
+          <p>Millie Milkenen finds out what it takes to become a blender and how they find a way to remain consistent despite a constantly changing palette of flavours to work off.</p>
+          <p><a href="https://spiritsbeacon.com/features/insight/the-legacy-of-spirits-blenders"><strong>A Blender’s Legacy</strong></a> </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FFF" direction="rtl">
+      <mj-column>
+        <mj-image src="https://bucket.mlcdn.com/a/2998/2998738/images/0e912cde2d1ba0d7729cc07379b576ac24a46d2c.png" alt="Bountiful Berries" href="https://spiritsbeacon.com/guides/how-tos/bountiful-berries" />
+      </mj-column>
+      <mj-column>
+        <mj-text align="justify">
+          <p>Seeing all the hedgerows fill with summer treats all around you?</p><p>Good thing we’ve served up some inspiration for all those not afraid to stain fingertip or two...</p>
+          <p>If you are into foraging, or just want to make a unique infusion as a weekend project - here's what to go hunting for and what to make with it once you return with your bounty! </p>
+          <p><a href="https://spiritsbeacon.com/guides/how-tos/bountiful-berries"><strong>Bountiful Berries</strong></a></p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FFF">
+      <mj-column>
+        <mj-image src="https://bucket.mlcdn.com/a/2998/2998738/images/790dcb3f9025eba5dc96b7cf7b2a4ad4d7369bdf.png" alt="Órlaith Kelm" href="https://spiritsbeacon.com/features/interviews/boatyard-distillery-orlaith-kelm" />
+      </mj-column>
+      <mj-column>
+        <mj-text align="justify">
+          <p>Meet one of Ireland's up-and-coming distillers, Órlaith Kelm, who's been busy quietly forging a name for herself over in County Fermanagh by producing batch after batch of award wining gins.</p>
+          <p>In our latest interview, we talk to the young Irish distiller about her role, making vodka from scratch and what's next for Boatyard Distillery.</p>
+          <p><a href="https://spiritsbeacon.com/features/interviews/boatyard-distillery-orlaith-kelm"><strong>Órlaith Kelm</strong></a></p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FFF" direction="rtl">
+      <mj-column>
+        <mj-image src="https://bucket.mlcdn.com/a/2998/2998738/images/00554d0620badf21ebfcd8d182d74990fdc5f5de.png" alt="Summer Sippers" href="https://spiritsbeacon.com/features/reviews/summer-sippers-from-the-big-boys" />
+      </mj-column>
+      <mj-column>
+        <mj-text align="justify">
+          <p>Picking up a bottle of spirits these days is akin to going to a restaurant with the world’s longest menu and being asked to select your three courses immediately. </p>
+          <p>You will um, you will ah, you will make a regrettable choice. </p>
+          <p>Lucky for you, Leah Gasson has elected to sip her way through five summer releases and review them to spare you all the mistakes! There was joy, there was horror, there were hiccups...</p>
+          <p><a href="https://spiritsbeacon.com/features/reviews/summer-sippers-from-the-big-boys"><strong>Summer Sippers</strong></a></p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+    <!--Bottom Text-->
+    <mj-section padding-bottom="20px">
+      <mj-column>
+        <!--Button-->
+        <mj-button background-color="#003c55;" href="https://spiritsbeacon.com/">DISCOVER SPIRITS BEACON</mj-button>
+        <!--End Button-->
+      </mj-column>
+    </mj-section>
+    <!--End Bottom Text-->
+
+
+    <mj-include path="./footer.mjml" />
+
+  </mj-body>
+</mjml>

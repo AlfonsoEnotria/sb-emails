@@ -1,0 +1,38 @@
+<mjml>
+  <mj-head>
+    <mj-title>Gin Foundry has changed. Here’s what we’ve been up to...</mj-title>
+    <mj-include path="./head.mjml" />
+    <mj-preview>Spirits Beacon is live and we’ve been busy publishing each week.</mj-preview>
+  </mj-head>
+  <mj-body>
+
+    <mj-include path="./header.mjml" />
+
+    <mj-section background-color="#FFF">
+      <mj-column>
+        <mj-image src="https://d3k81ch9hvuctc.cloudfront.net/company/StR5Hn/images/11e0bd1c-c552-4a84-bdd5-fc345a048b5c.jpeg" href="https://spiritsbeacon.com/cocktails" />
+        <mj-text align="justify">
+          <p>As many of you know, over the past year we have moved from Gin Foundry into our new home, <a href="https://spiritsbeacon.com/"><strong>Spirits Beacon</strong></a>. Now that we’ve got our feet under the table, we thought we’d contact you and say hello and show you more about what we’ve been up to!</p>
+          <p>Firstly, we’ve moved over our <a href="https://spiritsbeacon.com/cocktails"><strong>Cocktail</strong></a> catalogue, as well as added a few more classic recipes… We’ve also run <a href="https://spiritsbeacon.com/features/interviews"><strong>Interviews</strong></a> with some fantastic producers as well as delved into some key topics in our <a href="https://spiritsbeacon.com/features/insight"><strong>Features</strong></a> section.</p>
+          <p>We’ll be transitioning the old reviews and information bank into brand <a href="https://spiritsbeacon.com/producers"><strong>Profiles</strong></a> over the next few months, refreshing them as we publish, while also creating some fresh thematic based reviews.</p>
+          <p>We’ve also started to explore the various worlds of Tequila, Rum and Whisky, commissioning brilliant writers to help us navigate them.</p>
+          <p>If you don’t want to hear from us anymore and were only here for the Gin, it’ll be a shame to lose you but we understand. We don’t want to spam mail you, so if that’s the case please use <a href="{$unsubscribe}"><strong>click here</strong></a> to unsubscribe.</p>
+          <p>Starting next week, we’ll be sending our newsletter that has all the latest news, articles and insights, distilled into one handy place. </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--Bottom Text-->
+    <mj-section padding-bottom="20px">
+      <mj-column>
+        <!--Button-->
+        <mj-button background-color="#003c55;" href="https://spiritsbeacon.com/">DISCOVER SPIRITS BEACON</mj-button>
+        <!--End Button-->
+      </mj-column>
+    </mj-section>
+    <!--End Bottom Text-->
+
+
+    <mj-include path="./footer.mjml" />
+
+  </mj-body>
+</mjml>

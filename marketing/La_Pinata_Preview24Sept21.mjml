@@ -1,0 +1,62 @@
+<mjml>
+  <mj-head>
+    <mj-title>La Piñata Preview and the Best Fermented Drinks…</mj-title>
+    <mj-include path="./head.mjml" />
+    <mj-preview>Join us at the inaugural Tequila and Mezcal show is this weekend!</mj-preview>
+  </mj-head>
+  <mj-body>
+
+    <mj-include path="./header.mjml" />
+
+    <mj-section background-color="#FFF">
+      <mj-column>
+        <mj-image src="https://bucket.mlcdn.com/a/2998/2998738/images/5537575e2d05de9e2f5cc2fe59be5f9068be3efe.jpeg" alt="Manhattan cocktail" href="https://spiritsbeacon.com/cocktails/recipes/manhattan" />
+        <mj-text align="justify">
+          <p>Knowing how to make a great Manhattan is an essential skill any cocktail enthusiasts will need. Moreover, when you know how to make it properly and with your own preferences reflected in the choice of whiskey, ratio and garnish - it delivers a moment very few other cocktail experiences can bring. Here’s our <a href="https://spiritsbeacon.com/cocktails/recipes/manhattan"><strong>Manhattan recipe</strong></a>.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FFF">
+      <mj-column>
+        <mj-image src="https://bucket.mlcdn.com/a/2998/2998738/images/4dc5c22cd9db9dd30470235da3106f42b0d6973c.png" alt="La Piñata Preview" href="https://spiritsbeacon.com/news/latest/la-pinata-preview" />
+      </mj-column>
+      <mj-column>
+        <mj-text align="justify">
+          <p>There’s only one more day to go before the inaugural La Piñata Tequila and Mezcal show in Tobacco Dock, London.</p>
+          <p>Dozens of producers are ready to celebrate the rise in popularity of Tequila in the UK and help drinkers experience the craft and centuries of tradition imbued in each drop.</p>
+          <p>If you want to know more about what to expect and grab some last-minute tickets, head over to the site for our mini preview!</p>
+          <p><a href="https://spiritsbeacon.com/news/latest/la-pinata-preview"><strong>La Piñata Preview</strong></a></p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FFF" direction="rtl">
+      <mj-column>
+        <mj-image src="https://bucket.mlcdn.com/a/2998/2998738/images/9f20cc2a147b007207402469838d731c0b4511f6.png" alt="The Best Fermented Fizz" href="https://spiritsbeacon.com/features/reviews/the-best-fermented-fizz" />
+      </mj-column>
+      <mj-column>
+        <mj-text align="justify">
+          <p>Karyn Noble needed more than alcohol to cope with the pandemic and, surprisingly, the world of fermented drinks lived up to its multitude of promises.</p>
+          <p>From Kombucha and Kefir to Mead, fermented tea, sparkling wines and an aperitif – there’s lots to enjoy.</p>
+          <p>Head over to the site to see an extensive round-up of her favourite fizzes...</p>
+          <p><a href="https://spiritsbeacon.com/features/reviews/the-best-fermented-fizz"><strong>The Best Fermented Fizz</strong></a></p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!--Bottom Text-->
+    <mj-section padding-bottom="20px">
+      <mj-column>
+        <!--Button-->
+        <mj-button background-color="#003c55;" href="https://spiritsbeacon.com/">READ MORE ON SPIRITS BEACON</mj-button>
+        <!--End Button-->
+      </mj-column>
+    </mj-section>
+    <!--End Bottom Text-->
+
+
+    <mj-include path="./footer.mjml" />
+
+  </mj-body>
+</mjml>

@@ -1,0 +1,74 @@
+<mjml>
+  <mj-head>
+    <mj-title>Meet the maker and get the lowdown on Festive Gins</mj-title>
+    <mj-include path="./head.mjml" />
+    <mj-preview>It’s Cider House Rules – a pina colada in winter, a pioneering distillery and more…</mj-preview>
+  </mj-head>
+  <mj-body>
+
+    <mj-include path="./header.mjml" />
+
+    <mj-section background-color="#FFF">
+        <mj-column>
+            <mj-image src="https://bucket.mlcdn.com/a/2998/2998738/images/d7eb636f744fc41cdaf813402352b4a8217691f8.jpeg" alt="The Piña Colada" href="https://spiritsbeacon.com/cocktails/recipes/pina-colada" />
+        </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FFF">
+          <mj-column>
+            <mj-text align="justify" color="#000">
+              <p>The Piña Colada is a drink so sweet it counts as dessert, so silly it arrives with a blush and so revered that it’s got a world-famous song (re)named after it. Here’s our recipe for those who love getting caught in the rain: <a href="https://spiritsbeacon.com/cocktails/recipes/pina-colada"><strong>The Piña Colada</strong></a></p>
+            </mj-text>
+          </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FFF" >
+        <mj-column>
+            <mj-image src="https://bucket.mlcdn.com/a/2998/2998738/images/2ca4c9f80cb249f9414a4689cc30de3e91ed4351.jpeg" alt="Matilda Temperley" href="https://spiritsbeacon.com/features/interviews/somerset-cider-company-matilda-temperley" />
+          </mj-column>
+          <mj-column>
+            <mj-text align="justify" color="#000">
+              <p>An early pioneer of craft distilled spirits in the UK, Somerset Cider Brandy have a cult following and an expansive range of ciders, aperitifs and spirits.</p>
+              <p>For our latest interview, we caught up with their MD, Matilda Temperley to find out a little more about her journey and how they grow, harvest and distil some of the best apple eau de vie in England.</p>
+            </mj-text>
+             <!--Button-->
+          <mj-button background-color="#003c55;" href="https://spiritsbeacon.com/features/interviews/somerset-cider-company-matilda-temperley">Meet the Maker</mj-button>
+          <!--End Button-->
+          </mj-column>
+      </mj-section>
+      
+
+      <mj-section background-color="#FFF" direction="rtl">
+        <mj-column>
+          <mj-image src="https://bucket.mlcdn.com/a/2998/2998738/images/32eff6449364fff5bbc2c2b490c00172bbd7e04f.jpeg" alt="Festive Gins" href="https://spiritsbeacon.com/guides/spirits/festive-gins" />
+        </mj-column>
+        <mj-column>
+          <mj-text align="justify" color="#000">
+            <p>Tis’ the season for all things spiced and festive!</p>
+            <p>But with so much choice within the gin category, how do you start to make sense of it all and which of them are any good?</p>
+            <p>In our latest article, we explore what’s out there for those who want some seasonal styling in their gins this Christmas and more importantly - which are worth seeking out.</p>
+          </mj-text>
+           <!--Button-->
+        <mj-button background-color="#003c55;" href="https://spiritsbeacon.com/guides/spirits/festive-gins">Festive Gins</mj-button>
+        <!--End Button-->
+        </mj-column>
+      </mj-section>
+  
+
+
+
+    <!--Bottom Text-->
+    <mj-section padding-bottom="20px">
+      <mj-column>
+        <!--Button-->
+        <mj-button background-color="#003c55;" href="https://spiritsbeacon.com/">READ MORE ARTCLES</mj-button>
+        <!--End Button-->
+      </mj-column>
+    </mj-section>
+    <!--End Bottom Text-->
+
+
+    <mj-include path="./footer.mjml" />
+
+  </mj-body>
+</mjml>

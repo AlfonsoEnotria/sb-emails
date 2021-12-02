@@ -1,0 +1,73 @@
+<mjml>
+  <mj-head>
+    <mj-title>Scintillating cocktails, interviews and insight in this week’s editorial</mj-title>
+    <mj-include path="./head.mjml" />
+    <mj-preview>How to make a Pegu Club and a review of the Filey Bay Whisky range… </mj-preview>
+  </mj-head>
+  <mj-body>
+
+    <mj-include path="./header.mjml" />
+
+    <mj-section background-color="#FFF">
+      <mj-column>
+        <mj-image src="https://d3k81ch9hvuctc.cloudfront.net/company/StR5Hn/images/2f86eb31-a906-46a1-a9f8-80e2532a4fdd.jpeg" alt="Pegu Club" href="https://spiritsbeacon.com/cocktails/recipes/pegu-club" />
+        <mj-text align="justify">
+          <p>The Pegu Club is a delicious drink that walks the tightrope of citrus vs booze and sweet vs sour. This classic is a tart, mouth-watering affair that offers a surprising complexity due to the bitters bestowed upon it and one you’d do well to add to your home cocktail making repertoire… Here’s our <a href="https://spiritsbeacon.com/cocktails/recipes/pegu-club"><strong>Pegu Club recipe</strong></a> and how best to make it.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FFF">
+      <mj-column>
+        <mj-image src="https://d3k81ch9hvuctc.cloudfront.net/company/StR5Hn/images/8d326a07-27b3-4bcc-8f52-b2f2aafac67d.jpeg" alt="Tiki Bar" href="https://spiritsbeacon.com/features/insight/all-hail-the-tiki-bar" />
+      </mj-column>
+      <mj-column>
+        <mj-text align="justify">
+          <p>Delving into Tiki culture, history and more, it seems it’s high time to hold your Mai Tai aloft and re-embrace the Pina Colada (which gets over 90,000 recipe searches a month - the second most Googled cocktail recipe after the Mojito!).</p>
+          <p>In her latest article, Leah Gasson makes the case for why Tiki cocktails are ones to savour, share and clamour for!</p>
+          <p><a href="https://spiritsbeacon.com/features/insight/all-hail-the-tiki-bar"><strong>ALL AHIL THE TIKI BAR</strong></a></p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FFF" direction="rtl">
+      <mj-column>
+        <mj-image src="https://d3k81ch9hvuctc.cloudfront.net/company/StR5Hn/images/aa7e61fc-3da0-4298-ab7f-bb52ee7f7b1a.jpeg" alt="Elwyn Gladstone" href="https://spiritsbeacon.com/features/interviews/biggar-and-leith-elwyn-gladstone" />
+      </mj-column>
+      <mj-column>
+        <mj-text align="justify">
+          <p>For our latest interview, we meet Elwyn Gladstone, a drinks industry veteran who formed the New York based distributor Biggar & Leith and who’s created a number of drinks brands, including Malfy Gin which he sold to Pernod Ricard in 2019.</p>
+          <p>We asked about his journey so far and where his current stable of brands like Hotel Starlino and The Butterfly Cannon were heading in the months ahead.</p>
+          <p><a href="https://spiritsbeacon.com/features/interviews/biggar-and-leith-elwyn-gladstone"><strong>ELWYN GLADSTONE</strong></a></p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FFF">
+      <mj-column>
+        <mj-image src="https://d3k81ch9hvuctc.cloudfront.net/company/StR5Hn/images/e1aaae9b-8741-4605-a7b2-459fad151176.jpeg" alt="Yorkshire Distillery" href="https://spiritsbeacon.com/features/reviews/spirit-of-yorkshire-distillery" />
+      </mj-column>
+      <mj-column>
+        <mj-text align="justify">
+          <p>With an expansive Whisky range that's picking up awards consistently, Spirit of Yorkshire is gathering quite a following.</p>
+          <p>For her first article on Spirits Beacon - Karyn Noble visits the distillery to delve into what the future holds for them and just what their Filey Bay Single Malts are all about.</p>
+          <p><a href="https://spiritsbeacon.com/features/reviews/spirit-of-yorkshire-distillery"><strong>THE SPIRIT OF YORKSHIRE DISTILLERY</strong></a></p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    
+    <!--Bottom Text-->
+    <mj-section padding-bottom="20px">
+      <mj-column>
+        <!--Button-->
+        <mj-button background-color="#003c55;" href="https://spiritsbeacon.com/">READ MORE ON SPIRITS BEACON</mj-button>
+        <!--End Button-->
+      </mj-column>
+    </mj-section>
+    <!--End Bottom Text-->
+
+
+    <mj-include path="./footer.mjml" />
+
+  </mj-body>
+</mjml>
