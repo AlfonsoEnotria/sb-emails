@@ -1,0 +1,69 @@
+<mjml>
+  <mj-head>
+    <mj-title>It's that most wonderful time of the year</mj-title>
+    <mj-include path="./head.mjml" />
+    <!--Preview-->
+    <mj-preview>Seasonal drinks inspiration and lesser known spirits.</mj-preview>
+    <!--End Preview-->
+  </mj-head>
+  <mj-body>
+<!--Header-->
+    <mj-include path="./header.mjml" />
+<!--End Header-->
+    <mj-section background-color="#FFF">
+        <mj-column>
+            <mj-image src="https://bucket.mlcdn.com/a/2998/2998738/images/bb74c25a29f8773718dc2021572c7bef1cfc581d.jpeg" alt="The New York Sour Cocktail" href="https://spiritsbeacon.com/cocktails/recipes/new-york-sour" />
+            <mj-text color="#000">
+                <p style="text-align:justify;">The New York Sour is a cocktail that is simple to make, complex to taste and looks extraordinary. It's a showstopper of a drink, but without needing all the usual efforts that go into making something difficult.</p>
+                <p style="text-align:justify;">Here's our recipe: <a href="https://spiritsbeacon.com/cocktails/recipes/new-york-sour"><strong>NEW YORK SOUR</strong></a>.</p>
+            </mj-text>
+        </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FFF" >
+        <mj-column>
+            <mj-image src="https://bucket.mlcdn.com/a/2998/2998738/images/e15115f53b4d75bbaa2a633b140ea9da3588f011.jpeg" alt="WASTE NOT WANT NOT" href="https://spiritsbeacon.com/guides/how-tos/waste-not-want-not" />
+          </mj-column>
+          <mj-column>
+            <mj-text align="justify" color="#000">
+              <p>It's that most wonderful time of the year!</p>
+              <p>But if you're eyeballing the liquid remnants of your overindulgence or glancing sideways at obscure spirits you've been gifted, don't despair, Karyn Noble has gathered some practical uses for your leftover Christmas booze.</p>
+              <p>Head over to the site to find all sorts of ideas, tips and tricks you can try out with all those classic festive tipples…</p>
+            </mj-text>
+            <!--Button-->
+            <mj-button background-color="#003c55;" href="https://spiritsbeacon.com/guides/how-tos/waste-not-want-not">WASTE NOT WANT NOT</mj-button>
+            <!--End Button-->
+          </mj-column>
+      </mj-section>
+      
+      <mj-section background-color="#FFF"direction="rtl" >
+        <mj-column>
+            <mj-image src="https://bucket.mlcdn.com/a/2998/2998738/images/72498bdd386c715b5fea4b82c76d6805c026e115.jpeg" alt="MEZCAL'S IDENTITY" href="https://spiritsbeacon.com/.../insight/the-identity-of-mezcal" />
+          </mj-column>
+          <mj-column>
+            <mj-text align="justify" color="#000">
+              <p>In her latest deep dive into a lesser known corner of the spirits world, Bernadette Pamplin explores the differences between Tequila and Mezcal. </p>
+              <p>Not just a fascinating look at why it's so special, she also asks if mezcal really needs to be positioned differently to help establish it as a separate entity. </p>
+            </mj-text>
+            <mj-button background-color="#003c55;" href="https://spiritsbeacon.com/.../insight/the-identity-of-mezcal">MEZCAL'S IDENTITY</mj-button>
+          </mj-column>
+      </mj-section>
+      
+      <mj-section background-color="#FFF" >
+        <mj-column>
+            <mj-image src="https://bucket.mlcdn.com/a/2998/2998738/images/92231ee676b940426be21787e823cbe40299a0c7.jpeg" alt="CLARIN RISES" href="https://spiritsbeacon.com/features/insight/clairin-rises" />
+          </mj-column>
+          <mj-column>
+            <mj-text align="justify" color="#000">
+              <p>Indigenous cane varieties, spontaneous fermentation, archaic distillation methods and no filtration: Clairin is a fascinating spirit. But you've probably never heard of it. </p>
+              <p>For those curious enough to find out more - it's one of the most authentic, rooted in terroir drinking experiences you'll get to have. </p>
+              <p>No wonder, then, that Haiti's enigmatic ancestral national spirit is a drinks industry favourite. Millie Milliken asks if it's finally Clairin's time in the sun? </p>
+            </mj-text>
+            <mj-button background-color="#003c55;" href="https://spiritsbeacon.com/features/insight/clairin-rises">CLARIN RISES</mj-button>
+          </mj-column>
+      </mj-section>
+<!--Footer-->
+    <mj-include path="./footer.mjml" />
+<!--End Footer-->
+  </mj-body>
+</mjml>
